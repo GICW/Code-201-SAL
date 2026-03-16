@@ -10,7 +10,7 @@ At any time, a user should be able to revisit the chart page and see the last se
 
 ## Instructions
 
-When available, your instructor will pair you with a partner for this lab. Create a new repo using [this template repository](https://github.com/codefellows/201-lab-14){:target="_blank"}.
+When available, your instructor will pair you with a partner for this lab. Create a new repo using [this template repository]([https://github.com/codefellows/201-lab-14](https://github.com/QILINXIE02/odd-duck-14/tree/main)){:target="_blank"}.
 
 If partnered with another student:
 
